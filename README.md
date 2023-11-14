@@ -1,5 +1,5 @@
 ## Hello World 👋 It's Toni
-I'm a Frontend React developer.
+I'm a Fullstack React and Node js developer.
 
 <br/>
 

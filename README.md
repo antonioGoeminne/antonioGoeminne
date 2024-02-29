@@ -9,12 +9,6 @@ I'm a Fullstack React and Node js developer.
 </a>
 
 
-<br />
-
-<img align="right" alt="GIF" src="https://media.tenor.com/JAZzfZupTTcAAAAM/gil-cat.gif" width="240px" />
-
-<br />
-
 ## What i'm up to
 
 - 🌱 I’m currently working @ [Vívet](https://vivetmarket.com/app/homepage).
